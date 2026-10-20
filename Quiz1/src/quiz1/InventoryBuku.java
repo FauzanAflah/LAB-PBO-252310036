@@ -3,6 +3,7 @@ package quiz1;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
+
 public class InventoryBuku {
 	static ArrayList<String> buku = new ArrayList<>();
 		
@@ -71,7 +72,4 @@ public class InventoryBuku {
         }
 	}  
         
-
-
-
 
